@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "VertiFix",
+  "version": "1.0",
+  "description": "Fixes 'For you' column width on github.com when signed in.",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.com/"],
+      "js": ["vertifix.js"]
+    }
+  ]
+}
