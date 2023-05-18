@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "name": "VertiFix",
-  "version": "1.0",
-  "description": "Fixes 'For you' column width on github.com when signed in.",
+  "version": "1.0.3",
+  "description": "Fixes 'For you' column width on github.com when signed in. Billboard icons created by Roundicons - Flaticon",
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/VertiFix_48x48.png"
   },
   "content_scripts": [
     {
