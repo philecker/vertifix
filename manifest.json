@@ -1,14 +1,18 @@
 {
   "manifest_version": 2,
   "name": "VertiFix",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Fixes 'For you' column width on github.com when signed in. Billboard icons created by Roundicons - Flaticon",
+  "homepage_url": "https://github.com/philecker/github-vertifix",
   "icons": {
-    "48": "icons/VertiFix_48x48.png"
+    "24": "icons/VertiFix_24x24.png",
+    "48": "icons/VertiFix_48x48.png",
+    "128": "icons/VertiFix_128x128.png"
   },
   "content_scripts": [
     {
-      "matches": ["*://*.github.com/"],
+      "matches": ["*://*.github.com/",
+                  "*://github.com/dashboard"],
       "js": ["vertifix.js"]
     }
   ]
