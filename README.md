@@ -4,7 +4,7 @@ VertiFix is a browser extension that fixes the 'For you' column width on GitHub 
 
 ## Installation
 
-You can install the VertiFix extension for Chrome and Firefox browsers by following these steps:
+You can install the VertiFix extension for [Chrome Extension](https://chrome.google.com/webstore/detail/vertifix/hkcjnlckkepoiefpponiijihlcghoecl?hl=en&authuser=0) and [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/vertifix/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) browsers by following these steps:
 
 ### Chrome
 
