@@ -1,7 +1,7 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "VertiFix",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fixes display issues for GitHub.com, especially on vertical or smaller viewports. Billboard icons created by Roundicons - Flaticon",
   "homepage_url": "https://github.com/philecker/github-vertifix",
   "icons": {
